@@ -1,0 +1,3 @@
+/Users/ruixuanzhang/Documents/workspace/checkerboard/CMakeFiles/Calibration.dir
+/Users/ruixuanzhang/Documents/workspace/checkerboard/CMakeFiles/edit_cache.dir
+/Users/ruixuanzhang/Documents/workspace/checkerboard/CMakeFiles/rebuild_cache.dir
